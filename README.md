@@ -17,9 +17,9 @@
 - If you wish to run the project locally, please do the following:
 
 - Clone the repository to your local machine.
-    - **`git clonehttps://github.com/RitobrotoMukherjee/assignment-2.git`**
+    - **`git clone https://github.com/RitobrotoMukherjee/assignment-2.git`**
     - **`cd assignment-2`**
-    - **`python -u [TASK_NAME.py]**
+    - **`python -u [TASK_NAME.py]`**
 
 ## Prerequisite
 
